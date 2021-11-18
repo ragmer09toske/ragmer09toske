@@ -1,0 +1,19 @@
+package stringtoarr;
+import java.util.Random;
+public class Stringtoarr {
+    public static void main(String[] args) {
+       String now = "TO THE END OF THE EARTH";
+       
+       char[] ch = now.toCharArray();
+       String splitNow[] = now.split(" ");
+       int chLen = ch.length-1;
+       int splitlen = splitNow.length-1;
+       int upperBound = splitlen;
+       Random rand = new Random();
+       int random_int = rand.nextInt(upperBound);
+       
+       for(int i=0; i<=splitlen; i++){
+           System.out.print(splitNow[random_int] + "\n");
+       }
+    }
+}
