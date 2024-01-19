@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @ragmer09toske
-- 👀 I’m interested in non of your, in fact programing
-- 🌱 I’m currently learning the inner depth of webdesign
-- 💞️ I’m looking to collaborate on php and node js backends
-- 📫 How to reach me retsepile.raymondshao@gmail.com
+### Hi there, I'm Raymond Shao! 👋
 
-<!---
-ragmer09toske/ragmer09toske is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I'm passionate about programming, with a focus on web development.
+- 🌱 I'm currently diving deep into the inner workings of web design, exploring the latest technologies and best practices.
+- 💻 I specialize in GraphQL, Node.js, and other modern web technologies.
+- ⚛️ I absolutely love working with ReactJS and Next.js for building dynamic and efficient user interfaces.
+- 📧 You can reach me at: retsepile.raymondshao@gmail.com
+
+#### Technologies & Tools:
+
+- Backend: Node.js, GraphQL
+- Frontend: HTML, CSS, JavaScript, React.js, Next.js
+- Database: MongoDB, MySql
+- Version Control: Git
+
+#### Let's Collaborate!
+
+- 💬 I'm open to collaborations on projects involving GraphQL and modern web development.
+- 🤝 Feel free to connect with me for discussions, coding challenges, or just to share knowledge.
+
+#### Stay Connected:
+
+- 📫 Email: retsepile.raymondshao@gmail.com
