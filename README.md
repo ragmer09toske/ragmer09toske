@@ -15,7 +15,7 @@
 
 #### Let's Collaborate!
 
-- 💬 I'm open to collaborations on projects involving GraphQL and modern web development.
+- 💬 I'm open to collaborations on projects involving Reactjs and modern web development.
 - 🤝 Feel free to connect with me for discussions, coding challenges, or just to share knowledge.
 
 #### Stay Connected:
