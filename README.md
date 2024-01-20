@@ -6,17 +6,23 @@
 </div>
 <br/>
 <p align="center">
-  <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="forthebadge">
-  </a>
-  &nbsp;
-  <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="forthebadge">
-  </a>
-  &nbsp;
-  <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="forthebadge">
-  </a>
+  <!-- JavaScript Badge -->
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
+
+  <!-- TypeScript Badge -->
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
+
+  <!-- Node.js Badge -->
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js">
+
+  <!-- Express.js Badge -->
+  <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express" alt="Express.js">
+
+  <!-- GraphQL Badge -->
+  <img src="https://img.shields.io/badge/GraphQL-pink?style=for-the-badge&logo=graphql" alt="GraphQL">
+
+  <!-- MongoDB Badge -->
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" alt="MongoDB">
 </p>
 
 ## GitHub Stats
