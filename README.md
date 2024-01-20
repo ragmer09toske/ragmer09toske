@@ -56,7 +56,7 @@
 
 <div>
   <p>
-    🙋‍♂️ Hi, I'm Retsepile Raymond Shao. <br/>
+    🙋‍♂️ A little more about me 🚀 <br/>
     <ul>
       <li>🔭 Currently working on exciting projects that challenge and inspire me.</li>
       <li>🌱 Passionate about learning, diving deep into the MERN Stack.</li>
@@ -68,6 +68,7 @@
     </ul>
   </p>
 </div>
+
 
 
 ## GitHub Stats
