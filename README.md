@@ -57,6 +57,7 @@
 <div>
   <p>
     🙋‍♂️ A little more about me 🚀 <br/>
+     I am a minimalist, I love it simple and not too much!! <br/>
     <ul>
       <li>🔭 Currently working on exciting projects that challenge and inspire me.</li>
       <li>🌱 Passionate about learning, diving deep into the MERN Stack.</li>
