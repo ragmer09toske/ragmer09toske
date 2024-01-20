@@ -55,17 +55,20 @@
 </p>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
-    <p>
+  <p>
     🙋‍♂️ Hi, I'm Retsepile Raymond Shao. <br/>
-    - 🔭 Currently working on exciting projects that challenge and inspire me. <br/>
-    - 🌱 Passionate about learning, diving deep into the MERN Stack. <br/>
-    - 👯 Open to collaboration on interesting development projects. Let's build something awesome together! <br/>
-    - 🤔 Looking for guidance in the world of Competitive Programming. Any tips or resources are appreciated. <br/>
-    - 💬 Feel free to ask me about anything<br/>
-    - 👨‍💻 One of my life hacks is to constantly learn new technologies, and I love sharing my knowledge with others. 🚀 <br/>
-    - ⚡ Fun fact: When I'm not coding, you'll probably find me immersed in my favorite games.
+    <ul>
+      <li>🔭 Currently working on exciting projects that challenge and inspire me.</li>
+      <li>🌱 Passionate about learning, diving deep into the MERN Stack.</li>
+      <li>👯 Open to collaboration on interesting development projects. Let's build something awesome together!</li>
+      <li>🤔 Looking for guidance in the world of Competitive Programming. Any tips or resources are appreciated.</li>
+      <li>💬 Feel free to ask me about anything.</li>
+      <li>👨‍💻 One of my life hacks is to constantly learn new technologies, and I love sharing my knowledge with others. 🚀</li>
+      <li>⚡ Fun fact: When I'm not coding, you'll probably find me immersed in my favorite games.</li>
+    </ul>
   </p>
 </div>
+
 
 ## GitHub Stats
 
