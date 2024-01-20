@@ -1,9 +1,9 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Retsepile Raymond Shao<br/>
   <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="gs://nala-6d763.appspot.com/1705770359123_1705770333918.jpg" />
 </div>
 
 <br/>
