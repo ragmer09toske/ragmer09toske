@@ -2,14 +2,22 @@
   Retsepile Raymond Shao<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="https://storage.googleapis.com/nala-6d763.appspot.com/1705770359123_1705770333918.jpg"  width="200" style="border-radius:50%;" />
+  <img alt="Demo" src="https://storage.googleapis.com/nala-6d763.appspot.com/1705770359123_1705770333918.jpg" width="200" style="border-radius:50%;" />
 </div>
 <br/>
-<center>
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-</center>
+<p align="center">
+  <a href="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="forthebadge">
+  </a>
+  &nbsp;
+  <a href="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="forthebadge">
+  </a>
+  &nbsp;
+  <a href="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="forthebadge">
+  </a>
+</p>
 
 ## GitHub Stats
 
@@ -29,7 +37,11 @@
 
 ## Social Media
 
-[![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
+<p align="center">
+  <a href="https://twitter.com/YourTwitterHandle">
+    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=social" alt="Twitter">
+  </a>
+</p>
 
 ## Tech Stack
 
