@@ -55,15 +55,15 @@
 </p>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
-  <p>
-    🙋‍♂️ Hi, I'm Retsepile Raymond Shao. You can find more about me on [My Personal Website](Your Website URL). <br/>
-    🔭 I'm currently working on exciting projects that challenge and inspire me. <br/>
-    🌱 I'm passionate about learning, and right now, I'm diving deep into the MERN Stack. <br/>
-    👯 I'm open to collaboration on interesting development projects. Let's build something awesome together! <br/>
-    🤔 I'm looking for guidance in the world of Competitive Programming. Any tips or resources are appreciated. <br/>
-    💬 Feel free to ask me about anything, except Maths (it's not my favorite topic 😅). <br/>
-    👨‍💻 One of my life hacks is to constantly learn new technologies, and I love sharing my knowledge with others. 🚀 <br/>
-    ⚡ Fun fact: When I'm not coding, you'll probably find me immersed in my favorite games.
+    <p>
+    🙋‍♂️ Hi, I'm Retsepile Raymond Shao. <br/>
+    - 🔭 Currently working on exciting projects that challenge and inspire me. <br/>
+    - 🌱 Passionate about learning, diving deep into the MERN Stack. <br/>
+    - 👯 Open to collaboration on interesting development projects. Let's build something awesome together! <br/>
+    - 🤔 Looking for guidance in the world of Competitive Programming. Any tips or resources are appreciated. <br/>
+    - 💬 Feel free to ask me about anything<br/>
+    - 👨‍💻 One of my life hacks is to constantly learn new technologies, and I love sharing my knowledge with others. 🚀 <br/>
+    - ⚡ Fun fact: When I'm not coding, you'll probably find me immersed in my favorite games.
   </p>
 </div>
 
