@@ -78,5 +78,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ragmer09toske?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ragmer09toske?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ragmer09toske?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/ragmer09toske?style=social)
+
+![Total Contributions](https://img.shields.io/github/commit-activity/w/ragmer09toske?label=Total%20Contributions)
+![Current Streak](https://img.shields.io/github/commit-activity/streak/ragmer09toske?label=Current%20Streak)
+![Longest Streak](https://img.shields.io/github/commit-activity/longest-streak/ragmer09toske?label=Longest%20Streak)
+
