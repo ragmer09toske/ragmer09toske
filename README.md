@@ -1,5 +1,5 @@
 <h2 align="center">
-  Retsepile Raymond Shao<br/>
+  Hi there, I'm Retsepile Raymond Shao 👋<br/>
 </h2>
 <div align="center">
   <img alt="Demo" src="https://storage.googleapis.com/nala-6d763.appspot.com/1705770359123_1705770333918.jpg" width="200" style="border-radius:50%;" />
