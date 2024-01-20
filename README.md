@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" alt="Firebase">
 </p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
+<div>
   <p>
     🙋‍♂️ Hi, I'm Retsepile Raymond Shao. <br/>
     <ul>
