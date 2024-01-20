@@ -76,4 +76,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ragmer09toske&show_icons=true&count_private=true&hide=issues,contribs)
 
-![Another GitHub stats](https://github-readme-stats.vercel.app/api?username=ragmer09toske&show_icons=true&count_private=true&hide=issues,contribs)
+![GitHub followers](https://img.shields.io/github/followers/ragmer09toske?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ragmer09toske?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ragmer09toske?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/ragmer09toske?style=social)
