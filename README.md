@@ -2,27 +2,21 @@
 <h2 align="center">
   Hi there, I'm Retsepile Raymond Shao 👋<br/>
 </h2>
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
+  <p>
+    🙋‍♂️ All about me is at [My Website](Your Website URL) <br/>
+    🔭 I’m currently working on Something Interesting. <br/>
+    🌱 I’m currently learning MERN Stack. <br/>
+    👯 I’m looking to collaborate on Dev Projects. <br/>
+    🤔 I’m looking for help with Competitive Programming. <br/>
+    💬 Ask me about anything, Except Maths 😅. <br/>
+    👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉. <br/>
+    ⚡ Fun fact: I waste most of my time playing games.
+  </p>
+
   <img alt="Profile Picture" src="https://storage.googleapis.com/nala-6d763.appspot.com/1705770359123_1705770333918.jpg" width="200" style="border-radius:50%;" />
 </div>
-<br/>
-<p align="center">
-  🙋‍♂️ All about me is at [My Website](Your Website URL)
 
-  🔭 I’m currently working on Something Interesting.
-
-  🌱 I’m currently learning MERN Stack.
-
-  👯 I’m looking to collaborate on Dev Projects.
-
-  🤔 I’m looking for help with Competitive Programming.
-
-  💬 Ask me about anything, Except Maths 😅.
-
-  👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉.
-
-  ⚡ Fun fact: I waste most of my time playing games.
-</p>
 
 <br/>
 <p align="center">
