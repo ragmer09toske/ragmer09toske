@@ -2,7 +2,7 @@
 <h2 align="center">
   Hi there, I'm Retsepile Raymond Shao 👋<br/>
 </h2>
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
   <p>
     🙋‍♂️ All about me is at [My Website](Your Website URL) <br/>
     🔭 I’m currently working on Something Interesting. <br/>
