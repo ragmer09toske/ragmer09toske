@@ -1,9 +1,26 @@
+ <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+
+    h2 {
+      text-align: center;
+    }
+
+    img {
+      border-radius: 50%;
+      display: block;
+      margin: 0 auto;
+    }
+</style>
 <h2 align="center">
   Retsepile Raymond Shao<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="https://storage.googleapis.com/nala-6d763.appspot.com/1705770359123_1705770333918.jpg"  width="100" />
+  <img alt="Demo" src="https://storage.googleapis.com/nala-6d763.appspot.com/1705770359123_1705770333918.jpg"  width="200" style= />
 </div>
 
 <br/>
