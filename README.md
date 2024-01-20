@@ -24,7 +24,35 @@
 
   <!-- MongoDB Badge -->
   <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" alt="MongoDB">
+
+  <!-- React.js Badge -->
+  <img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react" alt="React.js">
+
+  <!-- Next.js Badge -->
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" alt="Next.js">
+
+  <!-- Redux Badge -->
+  <img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux" alt="Redux">
+
+  <!-- Tailwind CSS Badge -->
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-blue?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS">
+
+  <!-- Bootstrap Badge -->
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
+
+  <!-- Material UI Badge -->
+  <img src="https://img.shields.io/badge/Material%20UI-blue?style=for-the-badge&logo=material-ui" alt="Material UI">
+
+  <!-- Postman Badge -->
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" alt="Postman">
+
+  <!-- Heroku Badge -->
+  <img src="https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku" alt="Heroku">
+
+  <!-- Firebase Badge -->
+  <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" alt="Firebase">
 </p>
+
 
 ## GitHub Stats
 
