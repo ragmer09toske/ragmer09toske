@@ -4,65 +4,42 @@
 <div align="center">
   <img alt="Demo" src="https://storage.googleapis.com/nala-6d763.appspot.com/1705770359123_1705770333918.jpg"  width="200" style="border-radius:50%;" />
 </div>
-
-
 <br/>
-
 <center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-
-
+  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+  [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 </center>
 
-## TL;DR
+## GitHub Stats
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ragmer09toske&show_icons=true&count_private=true&hide=issues,contribs)
 
-## Built With
+## Top Languages
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragmer09toske&layout=compact)
 
-This project was built using these technologies.
+## Profile Views
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+![Profile views](https://gpvc.arturio.dev/ragmer09toske)
 
-## Features
+## GitHub Activity Graph
 
-**📖 Multi-Page Layout**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ragmer09toske)
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## Social Media
 
-**📱 Fully Responsive**
+[![Twitter](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
 
-## Getting Started
+## Tech Stack
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+![Tech Stack](https://img.shields.io/badge/Tech-Stack-123456?style=for-the-badge)
 
-## 🛠 Installation and Setup Instructions
+## GitHub Trophies
 
-1. Installation: `npm install`
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ragmer09toske)
 
-2. In the project directory, you can run: `npm start`
+## Code Time
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<!-- Replace the WakaTime badge URL with your own -->
+![Code Time](https://wakatime.com/badge/github/ragmer09toske/Your-Repo.svg)
