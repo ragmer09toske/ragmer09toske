@@ -53,8 +53,9 @@
   <!-- Firebase Badge -->
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" alt="Firebase">
 
-  <img src=https://img.shields.io/badge/Shadcn-blue?style=for-the-badge&logo=shadcn>
-  <img src=https://img.shields.io/badge/Zustand-green?style=for-the-badge&logo=zustand>
+  <img src="https://img.shields.io/badge/Shadcn-blue?style=for-the-badge&logo=shadcn" alt="Shadcn">
+<img src="https://img.shields.io/badge/Zustand-green?style=for-the-badge&logo=zustand" alt="Zustand">
+
 
 </p>
 
