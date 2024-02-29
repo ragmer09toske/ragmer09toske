@@ -17,6 +17,11 @@
   <!-- Node.js Badge -->
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js">
 
+
+<!-- AWS Badge -->
+<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws" alt="AWS">
+
+
   <!-- Express.js Badge -->
   <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express" alt="Express.js">
 
