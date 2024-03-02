@@ -69,7 +69,7 @@
     🙋‍♂️ A little more about me 🚀 <br/>
      I am a minimalist, I love it simple and not too much!! <br/>
     <ul>
-      <li>🔭 Currently working on, everything crazy.</li>
+      <li>🔭 Currently working on, everything crazy. Saas </li>
       <li>🌱 Still on the journey of skill acquisition,  really never ends 🤦🏾‍♂️.</li>
       <li>👯 Open to collaboration on interesting development projects. Let's build something awesome together!</li>
       <li>🤔 Looking for guidance in the world of Competitive Programming. Any tips or resources are appreciated.</li>
