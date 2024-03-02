@@ -70,7 +70,7 @@
      I am a minimalist, I love it simple and not too much!! <br/>
     <ul>
       <li>🔭 Currently working on, everything crazy.</li>
-      <li>🌱 Passionate about learning, diving deep into the MERN Stack.</li>
+      <li>🌱 Still on the journey of skill acquisition,  really never ends 🤦🏾‍♂️.</li>
       <li>👯 Open to collaboration on interesting development projects. Let's build something awesome together!</li>
       <li>🤔 Looking for guidance in the world of Competitive Programming. Any tips or resources are appreciated.</li>
       <li>💬 Feel free to ask me about anything.</li>
