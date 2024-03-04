@@ -74,7 +74,7 @@
       <li>👯 Open to collaboration on interesting development projects. Let's build something awesome together!</li>
       <li>🤔 Looking for guidance in the world of Competitive Programming. Any tips or resources are appreciated.</li>
       <li>💬 Feel free to ask me about anything.</li>
-      <li>👨‍💻 One of my life hacks is to constantly learn new technologies, and I love sharing my knowledge with others. 🚀</li>
+      <li>👨‍💻 One of my life hacks is to constantly learn new technologies, and I love sharing my knowledge with others. Am super introverted though, but am finding my ways around this🚀</li>
       <li>⚡ Fun fact: When I'm not coding, you'll probably find me immersed in my favorite games.</li>
     </ul>
   </p>
