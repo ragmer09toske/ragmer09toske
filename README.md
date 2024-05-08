@@ -66,7 +66,7 @@
 
 <div>
   <p>
-    🙋‍♂️ A little more about me 🚀 <br/>
+    Am not too hard to understand, this is a little about me 🚀 <br/>
      I am a minimalist, I love it simple and not too much!! <br/>
     <ul>
       <li>🔭 Currently working on, everything crazy. Saas </li>
