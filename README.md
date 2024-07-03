@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Helo helo everyone, My name is Retsepile Raymond Shao, a software engineer from Nucleusdevs 👋 and welcome to my Github.<br/>
+  Helo helo everyone, My name is Retsepile Raymond Shao, a software engineer from Nucleusdevs 👋 and welcome to my Github, Currently under Africa Code Academy ERP.<br/>
 </h2>
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column;"> <img alt="Profile Picture" src="https://storage.googleapis.com/nala-6d763.appspot.com/1705770359123_1705770333918.jpg" width="200" style="border-radius:50%;" />
 </div>
