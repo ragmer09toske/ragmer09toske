@@ -90,13 +90,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/ragmer09toske/ragmer09toske/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 
 
