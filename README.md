@@ -39,7 +39,7 @@
 
   <!-- Redux Badge -->
   <img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux" alt="Redux">
-
+  <img src="https://img.shields.io/badge/Zustand-green?style=for-the-badge&logo=zustand" alt="Zustand">
   <!-- Tailwind CSS Badge -->
   <img src="https://img.shields.io/badge/Tailwind%20CSS-blue?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS">
 
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" alt="Firebase">
 
   <img src="https://img.shields.io/badge/Shadcn-blue?style=for-the-badge&logo=shadcn" alt="Shadcn">
-<img src="https://img.shields.io/badge/Zustand-green?style=for-the-badge&logo=zustand" alt="Zustand">
+
 
 
 </p>
